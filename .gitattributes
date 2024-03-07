@@ -7,12 +7,12 @@
 <body>
 <br>
 <h1><i>Website Links practice/<i>/<h1>
+<p>First test</p>
 
 <nav>
-
-<p><span style="color:blue;">blue</span>https://www.youtube.com/watch?v=bAdqazixuRY&list=RDbAdqazixuRY&start_radio=1</p>
-
+<a href>"https://www.youtube.com/watch?v=bAdqazixuRY&list=RDbAdqazixuRY&start_radio=1">This is the link</a>
 /<nav>
+
 <!-- Trying to put in a Youtube link -->
 
 </html>
