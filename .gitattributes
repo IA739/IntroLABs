@@ -4,15 +4,12 @@
  <title>Practicing Websites Link/Images</title>
  <meta charset="utf-8">
 </head>
-<body>
 <br>
+<body>
 <h1><i>Website Links practice/<i>/<h1>
-<p>First test</p>
+<p>First test with a video:</p>
 
-<nav>
-<a href>"https://www.youtube.com/watch?v=bAdqazixuRY&list=RDbAdqazixuRY&start_radio=1">This is the link</a>
-/<nav>
-
+<a href>"https://www.youtube.com/watch?v=bAdqazixuRY&list=RDbAdqazixuRY&start_radio=1">Youtube Link</a>
 <!-- Trying to put in a Youtube link -->
-
+</body>
 </html>
